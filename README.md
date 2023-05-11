@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ltang
+- 👋 Hi, I’m @ltang, co-founder of Fabi.ai
 - 👀 I’m interested in machine learning, AI, systems
 
 <!---
